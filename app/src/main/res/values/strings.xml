@@ -1,0 +1,7 @@
+<resources>
+  <string name="app_name">Layered Architecture</string>
+  <string name="main_tv_caption">MainActivity</string>
+  <string name="main_et_name">Name</string>
+  <string name="main_et_email">Mail</string>
+  <string name="main_bt_save">Speichern</string>
+</resources>
