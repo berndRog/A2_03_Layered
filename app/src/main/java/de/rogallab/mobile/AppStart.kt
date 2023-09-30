@@ -13,6 +13,8 @@ class AppStart : Application() {
 
    }
    companion object {
+      const val isDebug = true
+      const val isInfo = true
       //                       12345678901234567890123
       private const val tag = "ok>AppStart           ."
       const val database_name:    String = "A2_03_Layered.db"

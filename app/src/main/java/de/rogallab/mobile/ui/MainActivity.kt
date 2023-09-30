@@ -36,7 +36,5 @@ class MainActivity : BaseActivity(TAG) {
    companion object {
                             // 12345678901234567890123
       private const val TAG = "ok>MainActivity       ."
-      private const val BUNDLE = "BundleMainActivity"
-      const val isDebug = true
    }
 }
